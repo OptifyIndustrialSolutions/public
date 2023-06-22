@@ -1,0 +1,12 @@
+BEGIN:VCARD
+BDAY;VALUE=DATE:1993-08-21
+VERSION:3.0
+N:Patil,Piyush
+FN:Piyush Patil
+ORG:Optify Industrial Solutions Pvt. Ltd.
+ADR;TYPE=WORK,POSTAL,PARCEL:;;10;Nakshatra;Baner;Pune;Maharashtra;+919930241992;Inida
+TEL;TYPE=WORK,MSG:+91-99302-41992
+TEL;TYPE=WORK,FAX:+91-99302-41992
+EMAIL;TYPE=INTERNET:piyush.patil@optifysolutions.com
+END:VCARD
+
